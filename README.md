@@ -1,2 +1,2 @@
 # Python-Functions
-Working with functions in Python.
+A review of Python Functions and Fundamentals.
